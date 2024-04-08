@@ -1,0 +1,25 @@
+primer paso instalacion de node_modules
+> npm install
+segundo paso creacion de env
+>.env (configuracion de PORT y MONGODBURI)
+
+
+
+
+//para subir un proyecto a github
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/XIAC/test123123.git
+git push -u origin main
+
+
+// git clone https://github.com/XIAC/tes667676.git
+git status 
+
+git add .
+
+git commit -m "first commit"
+git push 

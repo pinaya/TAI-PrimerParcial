@@ -1,0 +1,35 @@
+[
+  {
+    "nombre": "Napolitana",
+    "ingrediente": "Queso, jamon y aceitunas",
+    "precio": 45
+  },
+  {
+    "nombre": "Hawaiana",
+    "ingrediente": "Queso, jamon y pina",
+    "precio": 40
+  },
+  {
+    "nombre": "Carnivora",
+    "ingrediente": "Queso, jamon, chorizo, carne, pollo y aceitunas",
+    "precio": 60
+  },
+  {
+    "nombre": "Planeta",
+    "ingrediente": "Queso, mortadela, salchicha, choclo, tomate, pimenton y aceitunas",
+    "precio": 50
+  },
+{
+    "nombre": "Cuatro Estaciones",
+    "ingrediente": "Queso, jamon, carne, salame y pina",
+    "precio": 55
+  },{
+    "nombre": "Picolina",
+    "ingrediente": "Queso, jamon, salame, champinones y aceitunas",
+    "precio": 45
+  },{
+    "nombre": "Margarita",
+    "ingrediente": "Queso y albahaca",
+    "precio": 35
+  }
+]
