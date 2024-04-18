@@ -3,3 +3,7 @@ Desarrollar una aplicación para una pizzería que permita elaborar un menú con
 ingredientes y precio de las pizzas, también que permita crear, editar, modificar y 
 eliminar cualquier pizza del menú, permita mostrar la pizza más económica y las pizzas 
 que lleven piña en sus ingredientes.
+
+Se agrego el inicio de sesion
+Se agrego el logout
+Se agregaron 10 consultas avanzadas
